@@ -32,4 +32,28 @@ Kelebihan yang ditawarkan adalah :
 2. Untuk VM yang cukup basic (Ubuntu, 2 vCPU, 4 GB RAM, 20 GB SSD) harganya 35-40 USD
    Jauh lebih terjangkau mengingat harga yang kita kalkulasikan sebelumnya jika tidak memakai cloud computing
 3. Kemampuan untuk mem-back up dan me-restore data
-4, Memiliki keamanan tinggi 
+4. Memiliki keamanan tinggi dan terpercaya
+
+-Kelebihan GCP-
+
+Ketimbang pesaing-pesaingnya, GCP memiliki beberapa kelebihan :
+1. Harga yang terbilang cukup murah 
+2. Migrasi aplikasi secara live ( live app migration )
+3. Big Data, seperti AI, Machine Learning dan hal lain yang ditawarkan google
+4. Infrastruktur Google ada di hampir 200 negara dan akan terus berkembang
+
+-Fitur fitur GCP-
+
+1. Compute engine
+2. Storage and database system
+3. Networking
+4. Big data
+5. Developer tools
+6. IoT
+7. Cloud AI
+8. Management tools
+9. Data Transfer 
+10. dan masih banyak lagi
+
+
+
