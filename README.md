@@ -10,6 +10,8 @@ Eksplorasi tentang produk developer google :
 Google Cloud Platform adalah platform cloud computing yang ditawarkan oleh google.
 Cloud Computing dalam makna sederhananya adalah penggunaan hardware dan software untuk memberikan pelayanan computing
 Pelayanan disini dapat diartikan sebagai mesin, data center dan hal lainnya 
+Banyak sekali perusahaan perusahaan disana yang memakai layanan cloud computing, khususnya GCP
+Dan, hal-hal seperti IOT, Artificial Intelligence, dan Blockchain akan mustahil tanpa Cloud Computing
 
 -Contoh Kasus-
 
@@ -25,3 +27,9 @@ untuk mengisi webnya nanti, desain, dan sebagainya
 -Solusi-
 
 Disini Google Cloud hadir untuk membantu
+Kelebihan yang ditawarkan adalah :
+1. Biaya yang cukup murah dan gratis trial di awal selama 3 bulan
+2. Untuk VM yang cukup basic (Ubuntu, 2 vCPU, 4 GB RAM, 20 GB SSD) harganya 35-40 USD
+   Jauh lebih terjangkau mengingat harga yang kita kalkulasikan sebelumnya jika tidak memakai cloud computing
+3. Kemampuan untuk mem-back up dan me-restore data
+4, Memiliki keamanan tinggi 
