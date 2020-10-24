@@ -14,5 +14,14 @@ Pelayanan disini dapat diartikan sebagai mesin, data center dan hal lainnya
 -Contoh Kasus-
 
 Misalkan saya ingin membuka web server dengan menggunakan komputer saya
-Tentu hal ini menjadi sangat boros, mengingat kita harus menghidupkan komputer 24 jam
-Biaya listrik dan internet akan mahal dan dapat membuat komputer rusak apabila dijalankan terus menerus
+Biaya yang dikeluarkan antara lain :
+1. Biaya listrik yang cukup mahal
+2. Biaya internet karena dipakai terus menerus
+3. Perawatan komputer
+4. Penambahan RAM, penggantian CPU/GPU, penambahan SSD, dan maintenance lainnya
+hal ini akan sangat merugikan mengingat biaya produksi yang sudah mahal, belum lagi
+untuk mengisi webnya nanti, desain, dan sebagainya
+
+-Solusi-
+
+Disini Google Cloud hadir untuk membantu
